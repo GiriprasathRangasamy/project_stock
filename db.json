@@ -1,0 +1,56 @@
+{
+  "user": [
+    {
+      "empId": "003",
+      "name": "Giriprasath",
+      "email": "prasath@gmail",
+      "mobileNumber": "1234567888",
+      "password": "1234",
+      "id": "3"
+    }
+  ],
+  "product": [
+    {
+      "Product_id": "001",
+      "Product_name": "Steel",
+      "Product_type": "heavy",
+      "Product_Available": "25",
+      "Market_price": "2500",
+      "id": "1"
+    },
+    {
+      "id": "8fe8",
+      "Product_id": "",
+      "Product_name": "",
+      "Product_type": "",
+      "Product_Available": "",
+      "Market_price": ""
+    }
+  ],
+  "dealer": [
+    {
+      "Deeler_Name": "giri",
+      "Product_Name": "steel",
+      "Price_Per_Unit": "25",
+      "Dealer_Location": "tamilnadu",
+      "GST_Number": "gst0012",
+      "Mobile_Number": "123456789",
+      "id": "1"
+    }
+  ],
+  "orders": [
+    {
+      "Product_id": "001",
+      "Product_name": "steel",
+      "Quantity": "25",
+      "Supplier_Number": "giri",
+      "Supplier_Mobile_Number": "123456789",
+      "Price_Per_unit": "25",
+      "Total_Price": "625",
+      "Status": "pending",
+      "delivered": "pending",
+      "orderId": "ioo1",
+      "id": "1"
+    }
+  ]
+}

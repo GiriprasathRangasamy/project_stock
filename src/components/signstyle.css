@@ -1,0 +1,9 @@
+.terms{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.bg{
+    background-image: url("bgmain.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}

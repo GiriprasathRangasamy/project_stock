@@ -1,0 +1,9 @@
+body {
+  background-image: url("components/bgmain.jpeg");
+  background-repeat:no-repeat;
+  background-size: cover;
+
+}
+TableHead{
+  background-color: aqua;
+}

@@ -1,0 +1,6 @@
+body.bg1 {
+    background-image: url("bgmain.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:100vh;
+  }
